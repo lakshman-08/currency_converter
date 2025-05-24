@@ -29,5 +29,4 @@ While building this project, I gained practical experience in:
 - Practicing **basic DOM manipulation**
 - Improving **code organization and readability**
 
-## 📁 Folder Structure
 
