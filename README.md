@@ -24,7 +24,7 @@ While building this project, I gained practical experience in:
 
 - Structuring a webpage using **semantic HTML**
 - Designing responsive layouts using **CSS Flexbox/Grid**
-- Creating interactive features with **vanilla JavaScript**
+- Creating interactive features with **JavaScript**
 - Handling **user inputs** and updating content dynamically
 - Practicing **basic DOM manipulation**
 - Improving **code organization and readability**
